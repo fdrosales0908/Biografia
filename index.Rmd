@@ -1,0 +1,63 @@
+---
+title: "Francesca Danae Rosales Rojas"
+image: "captura.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/francesca-danae-rosales-rojas-314457b6/"
+  - label: GitHub
+    url: "https://github.com/fdrosales0908?tab=repositories"
+  - label: Email
+    url: "mailto:fdrosales@uc.cl"
+output:
+  postcards::trestles
+---
+ 
+## Perfil profesional
+
+Cientista política con amplia experiencia en el procesamiento, análisis y reportería de información. Esto
+incluye manejo de datos sociales y construcción y monitoreo de indicadores.
+Mi propósito es insertarme en el mundo privado asumiendo nuevos desafíos, contribuyendo a entregar
+una mirada integral y soluciones eficientes y, en última instancia, aumentar la productividad de la
+organización.
+
+## Educación
+
+**Pontificia Universidad Católica de Chile** 
+
+Cientista Política | 2011 - 2015
+
+**Universidad Diego Portales** 
+
+Magíster en Políticas Públicas | 2018-2020
+
+**Universidad Diego Portales** 
+
+Estudiante de Magíster en Pensamiento Contemporáneo | 2021-2022
+
+## Experiencia laboral
+
+**Fondo de Solidaridad e Inversión Social-FOSIS** | Analista de Estudios | Junio 2021 - Present
+
+**Ministerio de Vivienda y Urbanismo** | Analista Unidad de Control y Gestión | Reemplazo Enero 2021 - Junio 2021
+
+**Universidad de Chile** | Coordinadora de Análisis de Datos y Analista de Observatorio de Género | Abril 2019 - Enero 2021
+
+**Servicio Nacional de la Mujer y Equidad de Género** | Gestora de programas | Diciembre 2017 - Diciembre 2018
+
+**Ministerio Secretaria General de la Presidencia** | Analista de Estudios | Enero 2016 - Diciembre 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
