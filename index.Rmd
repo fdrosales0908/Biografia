@@ -14,50 +14,59 @@ output:
  
 ## Perfil profesional
 
-Cientista política con amplia experiencia en el procesamiento, análisis y reportería de información. Esto
-incluye manejo de datos sociales y construcción y monitoreo de indicadores.
-Mi propósito es insertarme en el mundo privado asumiendo nuevos desafíos, contribuyendo a entregar
-una mirada integral y soluciones eficientes y, en última instancia, aumentar la productividad de la
-organización.
+I am a digital nomad and entrepreneur. I am a political scientist from UC. I have extensive experience in data processing, data analysis and information reporting. I'm curious, so I'm interested in the changes that are taking place in the digital era, both in human relations and in new forms of productivity. I'm an innate scrum master. I stand out for being adaptable, open to challenges and an integral professional.
+
+I'm interested in being in challenging work spaces that seek to innovate.
+
+I'm in constant training, since the world is moving very fast and my goal is to use technology for our benefit.
+
+
+
+## Experiencia laboral
+
+**EOL Market Research, Chile** | Project Manager | February 2022 - Present
+
+**Solidarity and Social Investment Fund, Chile** | Professional Staff Member, Department of Studies, Knowledge Management, and Evaluation | June 2021 - February 2022
+
+**Ministry of Housing and Urban Planning, Chile** | Analyst, Unit of Analysis and Management Control | January 2021 - Junio 2021
+
+**Universidad de Chile** | Coordinator, Unit of Research and Data Analysis, Office of the Associate Dean for Outreach | April 2019 - January 2021
+
+**National Service for Women and
+Gender Equality| Professional Staff Member| December 2017 - December 2018
+
+**Office of the President’s General Secretary** | Research Analyst | January 2016 - December 2018
+
 
 ## Educación
 
 **Pontificia Universidad Católica de Chile** 
 
-Cientista Política | 2011 - 2015
+Political Scientist (Professional Degree) | 2011 - 2015
 
 **Universidad Diego Portales** 
 
-Magíster en Políticas Públicas | 2018-2020
+Master in Public Policy | 2018-2020
+***Conicyt National Master’s Scholarship/summa cum laude)***
 
 **Universidad Diego Portales** 
+Master's student in contemporary thought | 2021-present
+***Beca Excelencia Académica IFF***
 
-Estudiante de Magíster en Pensamiento Contemporáneo | 2021-2022
+**Universidad de Chile**| 2017
+Diploma in Design, Evaluation, and Management of Public Interest Projects
 
-## Experiencia laboral
+**Universidad de Chile**|2016
+Diploma in Public Sector Administration
 
-**Fondo de Solidaridad e Inversión Social-FOSIS** | Analista de Estudios | Junio 2021 - Present
+## Habilidades y conocimientos
 
-**Ministerio de Vivienda y Urbanismo** | Analista Unidad de Control y Gestión | Reemplazo Enero 2021 - Junio 2021
+***- Rstudio, Python and SPSS***
 
-**Universidad de Chile** | Coordinadora de Análisis de Datos y Analista de Observatorio de Género | Abril 2019 - Enero 2021
+***- HTML5, CSS Y BOOTSTRAP***
 
-**Servicio Nacional de la Mujer y Equidad de Género** | Gestora de programas | Diciembre 2017 - Diciembre 2018
+***- Power bi***
 
-**Ministerio Secretaria General de la Presidencia** | Analista de Estudios | Enero 2016 - Diciembre 2018
+***- B2 EF SET Certificate TM***
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+***- MOS en Microsoft Office Excel 2016 Core***
